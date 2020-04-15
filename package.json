@@ -12,7 +12,15 @@
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
     "@hapi/joi": "^17.1.1",
+    "config": "^3.3.1",
+    "debug": "^4.1.1",
     "express": "^4.17.1",
-    "express-validator": "^6.4.0"
+    "express-validator": "^6.4.0",
+    "helmet": "^3.22.0",
+    "mongoose": "^5.9.9",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
